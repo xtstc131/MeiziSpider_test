@@ -1,0 +1,8 @@
+#include "bintree_root.h"
+#include "bintree_isEmpty.h"
+#include "bintree_clean.h"
+#include "bintree_copy.h"
+#include "bintree_makeTree.h"
+#include "bintree_breakTree.h"
+#include "bintree_updateHeigh.h"
+#include "bintree_insert.h"
